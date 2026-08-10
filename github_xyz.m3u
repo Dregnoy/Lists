@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Siteler.tr@HD" tvg-name="Siteler TV" group-title="Yerel,Genel" tvg-logo="https://vipotv.com/wp-content/uploads/2022/11/Siteler-TV-izle-vipotv-turkiye.png", Siteler TV HD
+https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
+#EXTINF:-1 tvg-id="SlowKaradeniz.tr@SD" tvg-name="Slow Karadeniz TV" group-title="Müzik" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/Slow-Karadeniz-TV-canli-izle-vipotv.png", Slow Karadeniz TV
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MetropolTV.tr@SD" tvg-name="Metropol TV" group-title="Dizi" tvg-logo="https://vipotv.com/wp-content/uploads/2025/09/metropol-tv-izle.png", Metropol TV
+https://edge.taksimbilisim.com/metropoltv/smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RehberTV.tr@HD" tvg-name="Rehber TV" group-title="Dini, Haber" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/rehbertv.png", Rehber TV (720p)
+https://cdn4.yayin.com.tr/rehbertv/video.m3u8
+#EXTINF:-1 tvg-id="Teleon.tr@SD" tvg-name="Teleon" group-title="Müzik" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png", Teleon TV
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr@SD" tvg-name="Fortuna TV" group-title="Haber" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/Fortuna-TV-izle-vipotv-turkey.png", Fortuna TV
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="EkolSports.tr@SD" tvg-name="Ekol Sports" group-title="Spor" tvg-logo="https://vipotv.com/wp-content/uploads/2025/09/ekol-sports-canli-izle.png", Ekol Sports 
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1 tvg-id="GucluTV.tr@SD" tvg-name="Güçlü TV" group-title="Müzik" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/guclutv-izle.png", Güçlü TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-id="BRT2.tr@HD" tvg-name="BRT 2" group-title="Genel" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/brt-2-vipotv.png", BRT 2 HD
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT1.tr@HD" tvg-name="BRT 1" group-title="Ulusal" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/brt-hd-1-vipotv.png", BRT 1 HD
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalT.tr@SD" tvg-name="Kanal T" group-title="Ulusal" tvg-logo="https://vipotv.com/wp-content/uploads/2025/12/kanal-t-canli-izle.png", Kanal T
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr@HD" tvg-name="TV8 HD" group-title="Ulusal" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png", TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="KTV.tr@SD" tvg-name="KTV" group-title="Dini" tvg-logo="https://vipotv.com/wp-content/uploads/2026/07/k-tv-canli-izle-hd-yayin-izle.png", KTV 
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVAlanya.tr@SD" tvg-name="ATV Alanya" group-title="Tatil" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/atv-alanya-tv-izle-vipotv-turkiye.png", ATV Alanya
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w1858253398.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr@HD" tvg-name="CNBC-e" group-title="Ekonomi" tvg-logo="https://s.cnbce.com/dist/images/logo.png?v=1", CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="SSport.tr@SD" tvg-name="S Sport" group-title="Spor" tvg-logo="https://ssport.tv/assets/images/icons/logo.svg", S Sport
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+#EXTINF:-1 tvg-id="TV100haber.tr@SD" tvg-name="tv100 Haber" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/tv-100-haber-radyo.jpg", tv100 Haber
+https://ssldyg2.radyotvonline.com/live/tv100radyo.stream/chunklist_w1695541452.m3u8
+#EXTINF:-1 tvg-id="DigiNETCinema.tr@SD" tvg-name="DigiNET Cinema" group-title="Sinema" tvg-logo="https://vipotv.com/wp-content/uploads/2026/06/Diginet-logo.png", DigiNET Cinema 
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-id="TV52.tr@SD" tvg-name="TV 52" group-title="Yerel" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/kanal-52-izle-vipotv-turkiye.png", TV 52
+https://edge.taksimbilisim.com/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="FRTTV.tr@SD" tvg-name="FRT TV" group-title="Gösteri" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/frt-tv-vipotv.png", FRT TV
+https://edge.taksimbilisim.com/frttv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="BIZTV.tr@SD" tvg-name="BİZ TV" group-title="Yabancı" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/biztv-vipotv.png", BiZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1 tvg-id="BayramFM.tr@SD" tvg-name="Bayram FM" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/bayram-fm-100x100.jpg", Bayram FM
+https://sslyayin.netyayin.net/3442/stream/;stream.mp3
+#EXTINF:-1 tvg-id="BiberFM.tr@SD" tvg-name="Biber FM" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/biber-fm.jpg", Biber FM
+https://radyo1.radyo-dinle.tc/8136/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="OzlemFMErbaa.tr@SD" tvg-name="Özlem FM Erbaa" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ozlem-fm-erbaa.jpg", Özlem FM Erbaa 
+https://radyo.yayin.com.tr:4100/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="VirginRadioTurkiye.tr@SD" tvg-name="Virgin Radio Türkiye" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/virgin-radio.jpg", Virgin Radio Türkiye 
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO128AAC.aac?/;stream.mp3
+#EXTINF:-1 tvg-id="EgerliFM.tr@SD" tvg-name="Eğerli FM" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/eregli-fm.jpg", Eğerli FM
+https://radyo.yayindakiler.com:3000/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="RedbullTV.tr@HD" tvg-name="Red Bull TV" group-title="Yabancı" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/redbulltv-vipotv.png", Red Bull TV (Austria)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="KikaTV.tr@HD" tvg-name="Kika TV" group-title="Yabancı" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/kika-live-vipotv.png", Kika TV
+https://kika-live.ard-mcdn.de/kika/live/hls/de/mastersubs.m3u8
+#EXTINF:-1 tvg-id="LoveWorldPlus.tr@SD" tvg-name="LoveWorldPlus" group-title="Yabancı,Dini" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/loveworldplus-vipotv-min.png", LoveWorldPlus
+https://vcpout-lw-wdc-01-sp.ceflixcdn.com/lxp/play1/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.tr@HD" tvg-name="Nature Time" group-title="Belgesel" tvg-logo="https://vipotv.com/wp-content/uploads/2025/06/Nature-Time.png", Nature Time 
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist1080pl.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr@HD" tvg-name="FB TV" group-title="Spor" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/fenerbahcetv.png", FB TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.tr@HD" tvg-name="WeatherNation" group-title="Hava Durumu" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Weather-Nation-TV-live-vipotv.png", WeatherNation
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.tr@HD" tvg-name="DW English" group-title="Ulusal" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dw-d-vipotv-min.png", DW English 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr@HD" tvg-name="TRT Çocuk" group-title="Çocuk" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt-cocuk-canli-izleyin-vipotv-turkiye-cocuk.png", TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr@HD" tvg-name="Minika Çocuk" group-title="Çocuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/minika-cocuk-300x217.webp", Minika Çocuk HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="MinikaGO.tr@HD" tvg-name="Minika GO" group-title="Çocuk" tvg-logo="https://apprecs.org/gp/img/icons/webp/200/com.turkuvaz.minikago/rZavVwvNCCnVpRs9bxndhq7Bj41I3syM-L3_QjGP0h8-icon" , Minika GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-name="Zarok TV" group-title="Çocuk" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/zaroktv-vipotv-min.png", Zarok Tv
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelPortugal.tr@HD" tvg-name="Disney Channel Portugal" group-title="Çocuk" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/tv_dc_logo_2a392203.png", Disney Channel Portugal
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="Aspor.tr@HD" tvg-name="A Spor" group-title="Spor" tvg-logo="https://iaspr.tmgrup.com.tr/v2/i/aspor-logo.png", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.tr@HD" tvg-name="CGTN Documentary" tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/CGNT-Documentary-live-vipotv-china.png", CGTN Documentary 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="CBSNews.tr@HD" tvg-name="CBS News" group-title="Haber,Ünlü" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/cbsnews-min.png", CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTelevisionEU.tr@HD" tvg-name="Bloomberg Television EU" group-title="Ekomini" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Bloomberg-TV-Asia-min.png", Bloomberg Television EU 
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="AljazeeraEngilsh.tr@HD" tvg-name="Al Jazeera" group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/250px-Aljazeera.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", Al Jazeera 
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+#EXTINF:-1 tvg-id="TVSN.tr@HD" tvg-name="TVSN" group-title="Alışveriş" tvg-logo="https://tvizle.tr/api/img?url=https%3A%2F%2Fi.imgur.com%2FlmoAFm3.png&w=100", TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master_TVSN.m3u8
+#EXTINF:-1 tvg-id="NATGEO.tr@HD" tvg-name="NAT GEO" group-title="Belgesel" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/icons/redesign-logo.svg", Nat Geo Russia 
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-id="TBMM.tr@HD" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/500px-TBMM_TV_logo.svg.png", TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.tr@HD" tvg-name="Sat 7 Kids" group-title="Çocuk" tvg-logo="https://tvizle.tr/api/img?url=https%3A%2F%2Fi.imgur.com%2FM0ik0i2.png&w=120", Sat-7-Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Cinema.tr@HD" tvg-name="Sinema" group-title="Filmler" tvg-logo="https://tvizle.tr/api/img?url=https%3A%2F%2Fi.imgur.com%2Fb5e9qUA.png&w=120", Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CanalShowSports.tr@HD" tvg-name="Canal Showsports" tvg-logo="https://tvizle.tr/api/img?url=https%3A%2F%2Fi.imgur.com%2F0L9tW3Z.png&w=120", Canal Showsports
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-id="UstaRadyo.tr@SD" tvg-name="Usta Radyo" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-usta.jpg", Radyo Usta
+https://yayin.turkhosted.com/usta/stream/;stream.mp3
+#EXTINF:-1 tvg-id="RadyoHisar.tr@SD" tvg-name="Radyo Hisar" group-title="Radyolar" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-hisar.jpg", Radyo Hisar
+https://radyo.yayindakiler.com:4006/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="FenomenClubbin.tr@SD" tvg-name="Fenomen Clubbin" group-title="https://www.canliradyodinle.fm/wp-content/uploads/fenomen-clubbin.jpg", Fenomen Clubbin
+https://rdfenlive.mediatriple.net/fenomen/fenomenclubbin/playlist.m3u8
+#EXTINF:-1 tvg-id="Gurbet24.tr@HD" tvg-name="Gurbet 24" group-title="Yerel" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/gurbet24-tv-canli-yayin-izle-vipotv.png", Gurbet 24
+https://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/chunklist_w1747243598.m3u8
+#EXTINF:-1 tvg-id="FashionTVSingapore.tr@HD" tvg-name="Fashion TV Singapore" group-title="Müzik" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/FashionTV-vipotv-min.png", Fashion TV Singapore 
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="Kanal32.tr@SD" tvg-name="Kanal 32" group-title="Yerel" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/kanal-32-izle-vipotv-turkiye.png", Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.tr@SD" tvg-name="Sat 7 Türk" group-title="Dizi" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/sat7tv.png", Sat 7 Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
