@@ -1,0 +1,1573 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/trt1_hd.png" group-title="TR - Turkiye",(TR) TRT 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14759&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/atv_tr.png" group-title="TR - Turkiye",(TR) ATV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14748&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_d_tr.png" group-title="TR - Turkiye",(TR) Kanal D 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14749&extension=ts
+#EXTINF:-1 tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="TR - Turkiye",(TR) Show TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14756&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/star_tv_tr.png" group-title="TR - Turkiye",(TR) Star TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14753&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tv8_tr.png" group-title="TR - Turkiye",(TR) TV 8 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14755&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tv85_tr.png" group-title="TR - Turkiye",(TR) TV 8.5 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=20691&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey3/Now.png" group-title="TR - Turkiye",(TR) Now TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=97321&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal7_tr.png" group-title="TR - Turkiye",(TR) Kanal 7 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14757&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/beyaz_tv_tr.png" group-title="TR - Turkiye",(TR) Beyaz TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=105817&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/teve_2_tr.png" group-title="TR - Turkiye",(TR) Teve 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14760&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey2/trt2.png" group-title="TR - Turkiye",(TR) TRT 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=46641&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey3/a2.png" group-title="TR - Turkiye",(TR) A2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=15661&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tytturk.png" group-title="TR - Turkiye",(TR) TYT Turk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=220422&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/trt1_hd.png" group-title="TR - Turkiye",(TR) TRT 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=60&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/atv_tr.png" group-title="TR - Turkiye",(TR) ATV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=42&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_d_tr.png" group-title="TR - Turkiye",(TR) Kanal D HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=45&extension=ts
+#EXTINF:-1 tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="TR - Turkiye",(TR) Show TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=533&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/star_tv_tr.png" group-title="TR - Turkiye",(TR) Star TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=46&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tv8_tr.png" group-title="TR - Turkiye",(TR) TV 8 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=532&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tv85_tr.png" group-title="TR - Turkiye",(TR) TV 8.5 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=20694&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey3/Now.png" group-title="TR - Turkiye",(TR) Now TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=97322&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal7_tr.png" group-title="TR - Turkiye",(TR) Kanal 7 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=49&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/beyaz_tv_tr.png" group-title="TR - Turkiye",(TR) Beyaz TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=105818&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/teve_2_tr.png" group-title="TR - Turkiye",(TR) Teve2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=56&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey2/trt2.png" group-title="TR - Turkiye",(TR) TRT 2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=266221&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey3/a2.png" group-title="TR - Turkiye",(TR) A2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=16327&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tytturk.png" group-title="TR - Turkiye",(TR) TYT Turk HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=266224&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/trt1_hd.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️TRT 1 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253060&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/atv_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️ATV ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253061&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_d_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Kanal D ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253062&extension=ts
+#EXTINF:-1 tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Show Tv ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253063&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/star_tv_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253064&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tv8_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Tv 8 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253065&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/tv85_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Tv 8.5 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253066&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey3/Now.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Now ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253067&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal7_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Kanal 7 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253068&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/beyaz_tv_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Beyaz Tv ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253069&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/teve_2_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Teve 2 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253070&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey3/a2.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️A2 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253071&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/360_tv_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️360 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253072&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/show_max_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Show Max ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253073&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_haber.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Trt Haber ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253075&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/a_haber_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️A Haber ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253074&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/haber_turk.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Haber Türk ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253076&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/cnn_turk.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Cnn Türk ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253077&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/haberglobal.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Haber Global ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253078&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/ntv_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️NTV ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253079&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/24_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️24 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253080&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/liderhaber.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Lider Haber ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253081&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_spor_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Trt Spor ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253082&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_spor_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Trt Spor Yildiz ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253083&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/trt_spor_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️Trt Spor 3 ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253084&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/a_spor_tr.png" group-title="TR - Turkiye  ᵘˡᵗʳᵃ",(TR)⚡️A Spor ᵘˡᵗʳᵃ
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253085&extension=ts
+#EXTINF:-1 tvg-logo="http://itekpro.xyz/picons/atvavrupa.png" group-title="TR - Avrupa & Yerel",(TR) ATV Avrupa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=3924&extension=ts
+#EXTINF:-1 tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="TR - Avrupa & Yerel",(TR) Show Turk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7762&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/show_max_tr.png" group-title="TR - Avrupa & Yerel",(TR) Show Max
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7871&extension=ts
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/euro_d.png" group-title="TR - Avrupa & Yerel",(TR) Euro D
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=582&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/eurostar.png" group-title="TR - Avrupa & Yerel",(TR) Eurostar
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14084&extension=ts
+#EXTINF:-1 tvg-logo="http://server.beastxser2.xyz:80/images/16816821bb5086f03cb61b6c15e81daf.png" group-title="TR - Avrupa & Yerel",(TR) TV 8 Int.
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14844&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/kanal7avrupahd.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 7 Avrupa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=4029&extension=ts
+#EXTINF:-1 tvg-logo="http://myking.best/ch_logo/TRTTÜRK.png" group-title="TR - Avrupa & Yerel",(TR) TRT Turk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=861&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Medine TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8779&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Semerkand TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14837&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/aa/arti-tv-nl.png" group-title="TR - Avrupa & Yerel",(TR) Arti TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63345&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/koza_tv.png" group-title="TR - Avrupa & Yerel",(TR) Koza TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68253&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_42_konya_tr%20(1).png" group-title="TR - Avrupa & Yerel",(TR) Kanal 42 Konya
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7282&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_avrupa.png" group-title="TR - Avrupa & Yerel",(TR) Kanal Avrupa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2092&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_26_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 26
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2096&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Diyanet TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=71&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_68_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 68
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=45285&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/vatan_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Eva TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2140&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/yol_tv_de.png" group-title="TR - Avrupa & Yerel",(TR) Yol TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=35482&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/dost_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Dost TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=984&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/CANTV.png" group-title="TR - Avrupa & Yerel",(TR) Can Tv 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41834&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/anadolu_dernek_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Anadolu Dernek
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=42131&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/lalegul_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Lalegul TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=26091&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_58_tr%20(1).png" group-title="TR - Avrupa & Yerel",(TR) Kanal 58
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/aksu_tv.png" group-title="TR - Avrupa & Yerel",(TR) Aksu TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=976&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/denizli_rt_tr.png" group-title="TR - Avrupa & Yerel",(TR) DRT Denizli
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=983&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.nxtbox.tv/satlogo/Senderlogos-master/sat%207.png" group-title="TR - Avrupa & Yerel",(TR) Sat-7 TÜRK 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127958&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal3_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=91&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_b_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal B
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=989&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_urfa.png" group-title="TR - Avrupa & Yerel",(TR) Kanal Urfa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28118&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/b88c1f6a0394845c91ab19b6628cf3c0.png" group-title="TR - Avrupa & Yerel",(TR) Yildiz En TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=46476&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/pamukkale_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Pamukkale TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=981&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kadirga_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kadirga TV Trabzon
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=4670&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/kanal_v_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal V
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=993&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tarim_turk_tr.png" group-title="TR - Avrupa & Yerel",(TR) Tarim Türk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68251&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/as_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) AS TV Bursa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7289&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/kon_tv.png" group-title="TR - Avrupa & Yerel",(TR) Kon TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2085&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/gaziantep_olay_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Vizyon 58 Sivas
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7286&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/tv_kayseri_tr.png" group-title="TR - Avrupa & Yerel",(TR) TV1 Kayseri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2130&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/tv52_tr.png" group-title="TR - Avrupa & Yerel",(TR) TV 52 Ordu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2133&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/mavi_karadeniz.png" group-title="TR - Avrupa & Yerel",(TR) Mavi Karadeniz
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=39438&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/tv_net_tr.png" group-title="TR - Avrupa & Yerel",(TR) TV Net
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7891&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/brtv_tr.png" group-title="TR - Avrupa & Yerel",(TR) BRT 1 HD
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=66625&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/brt-2-cy.png" group-title="TR - Avrupa & Yerel",(TR) BRT 2 HD
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=66626&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/rehber_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Rehber TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2120&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/tt/tv4_tr.png" group-title="TR - Avrupa & Yerel",(TR) TV 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=45246&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/deha_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Deha TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63121&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/koy_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Köy TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2084&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kardelen_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kardelen TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2087&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/edessa_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Edessa TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63122&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/kk/kanal15_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 15
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63109&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/kanal_23_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 23
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63110&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/kanal_32_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 32
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63111&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/kk/kanal33_tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 33
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63112&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/kk/kanal-43-tr.png" group-title="TR - Avrupa & Yerel",(TR) Kanal 43
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63113&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/kanalfirat.png" group-title="TR - Avrupa & Yerel",(TR) Kanal Firat
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=81725&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/altastv.jpg" group-title="TR - Avrupa & Yerel",(TR) Altas TV Ordu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=102586&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/guneydogu_tv.png" group-title="TR - Avrupa & Yerel",(TR) Guneydogu TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63115&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/mercan_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Mercan TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63118&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/fm_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Fm TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2106&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/kanal_cay_tr.png" group-title="TR - Avrupa & Yerel",(TR) Cay TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2147&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/SAT-7_TURK-logo-02-16-15.png" group-title="TR - Avrupa & Yerel",(TR) Sat-7 Turk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=16122&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/tv1.png" group-title="TR - Avrupa & Yerel",(TR) Tv1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=102766&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/cem_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Cem TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2146&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/mceu.png" group-title="TR - Avrupa & Yerel",(TR) MC EU
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63359&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/meltem_tv_tr.png" group-title="TR - Avrupa & Yerel",(TR) Meltem TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=9846&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/malatyaVuslattv.png" group-title="TR - Avrupa & Yerel",(TR) Vuslat TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=94242&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - Avrupa & Yerel",(TR) Tv 42
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=102771&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Avrupa & Yerel",(TR) Yeni Kocaeli TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=102768&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_haber.png" group-title="TR - Haber",(TR) TRT Haber 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14817&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/a_haber_tr.png" group-title="TR - Haber",(TR) A Haber 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14812&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/haber_turk.png" group-title="TR - Haber",(TR) Haber Turk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14816&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/cnn_turk.png" group-title="TR - Haber",(TR) CNN Turk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14815&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/ntv_tr.png" group-title="TR - Haber",(TR) NTV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14814&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/haberglobal.png" group-title="TR - Haber",(TR) Haber Global 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=49944&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/bloomberg_ht.png" group-title="TR - Haber",(TR) Bloomberg HT 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2124&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/apara.jpg" group-title="TR - Haber",(TR) A Para 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=46648&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tgrt_haber.png" group-title="TR - Haber",(TR) TGRT Haber 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=65435&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/ulke_tv_tr.png" group-title="TR - Haber",(TR) Ulke TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14818&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/szctv.jpg" group-title="TR - Haber",(TR) Sözcü TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=117783&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/koza_tv.png" group-title="TR - Haber",(TR) Koza TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267128&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/on4tv.png" group-title="TR - Haber",(TR) On4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63125&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tele_1_tr.png" group-title="TR - Haber",(TR) Tele 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28044&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/halk_tv_tr.png" group-title="TR - Haber",(TR) Halk TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=65&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/ulusal_kanal.png" group-title="TR - Haber",(TR) Ulusal Kanal 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=64&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/flashtvhd.png" group-title="TR - Haber",(TR) Flash Haber 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=95885&extension=ts
+#EXTINF:-1 tvg-logo="http://itekpro.xyz/picons/ekoltv.png" group-title="TR - Haber",(TR) Ekol TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213136&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_haber.png" group-title="TR - Haber",(TR) TRT Haber HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=116817&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/a_haber_tr.png" group-title="TR - Haber",(TR) A Haber HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/haber_turk.png" group-title="TR - Haber",(TR) Haber Turk HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/cnn_turk.png" group-title="TR - Haber",(TR) CNN Turk HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=6596&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/ntv_tr.png" group-title="TR - Haber",(TR) NTV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=163120&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tele_1_tr.png" group-title="TR - Haber",(TR) Tele 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=163123&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/halktv.png" group-title="TR - Haber",(TR) Halk TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=239251&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/ulusal_kanal.png" group-title="TR - Haber",(TR) Ulusal Kanal HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=258973&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/szctv.jpg" group-title="TR - Haber",(TR) Sözcü TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=258959&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/krt_tr.png" group-title="TR - Haber",(TR) Krt 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=67&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/tv_net_tr.png" group-title="TR - Haber",(TR) TVNET 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14819&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/tv100.png" group-title="TR - Haber",(TR) TV100 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=46649&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ee/ekoturk-tr.png" group-title="TR - Haber",(TR) Eko Turk TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68252&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/tv5_tr.png" group-title="TR - Haber",(TR) TV 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2063&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/akit_tv_tr.png" group-title="TR - Haber",(TR) Akit TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8707&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/24_tr.png" group-title="TR - Haber",(TR) 24 TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2097&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/360_tv_tr.png" group-title="TR - Haber",(TR) 360 TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8706&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/bengu_turk.png" group-title="TR - Haber",(TR) Benguturk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=21457&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/uzay_haber_tr.png" group-title="TR - Haber",(TR) Uzay Haber
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14822&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/a_news_tr_hd.png" group-title="TR - Haber",(TR) A News
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63098&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/haber_61_tr.png" group-title="TR - Haber",(TR) Haber61
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63097&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tgrt_eu.png" group-title="TR - Haber",(TR) TGRT EU
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=4278&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_world_tr.png" group-title="TR - Haber",(TR) TRT World 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14809&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/kudus_tv_tr.png" group-title="TR - Haber",(TR) Kudus TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=164282&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Haber",(TR) Savunan Adam TV 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126568&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Haber",(TR) Savunan Adam TV 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126569&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Haber",(TR) Bayraktar: Akıncı
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126573&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Haber",(TR) Bayraktar: TB2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126574&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Haber",(TR) Savunmadaki Türkler
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126575&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/nick_jr_us.png" group-title="TR - Çocuk",(TR) Nick JR
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8117&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/baby_tv_eu.png" group-title="TR - Çocuk",(TR) Baby TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41957&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_cocuk.png" group-title="TR - Çocuk",(TR) TRT Cocuk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=459&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/disney_junior_us.png" group-title="TR - Çocuk",(TR) Disney JR
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8115&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/minika_go.png" group-title="TR - Çocuk",(TR) Minika Go
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=119&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/cbeebies.png.gif" group-title="TR - Çocuk",(TR) CBeebies HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=71458&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/minika_cocuk.png" group-title="TR - Çocuk",(TR) Minika Cocuk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=4661&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/nickelodeon_us.png" group-title="TR - Çocuk",(TR) Nickelodeon HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8116&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/cartoon.png" group-title="TR - Çocuk",(TR) Cartoon Network
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=324&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.nxtbox.tv/satlogo/turkey/trt_okul.png" group-title="TR - Çocuk",(TR) TRT Eba Ilkokul TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=49933&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.nxtbox.tv/satlogo/turkey/trt_okul.png" group-title="TR - Çocuk",(TR) TRT Eba Ortaokul HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=49934&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.nxtbox.tv/satlogo/turkey/trt_okul.png" group-title="TR - Çocuk",(TR) TRT Eba Lise HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=49935&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Rafadan Tayfa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124179&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Trafik Tayfa
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121741&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Tom ve Jerry
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126596&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Maşa İle Koca Ayı
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126026&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Keloğlan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124171&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Pepee TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126225&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Pepee 'nin Arkadaşı Pisi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126595&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Teletabiler
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121735&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Niloya
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121738&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) The Simpsons
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207530&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Donald Duck
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121746&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Erdem
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124154&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Kaptan Pengu ve Arkadaşları
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124155&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Aslan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124165&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Canım Kardeşim
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124166&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Ciciki
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124167&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Elif ve Arkadaşları
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124168&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Emiray
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124169&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Ibi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124170&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Köstebekgiller
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124172&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Kral Şakir
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124173&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Küçük Hezarfen
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124174&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Leylek Kardeş
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124175&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Maysa ve Bulut
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124176&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Mutlu Oyuncak Dükkanı
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124177&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Pırıl ve Su Elçileri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124178&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Sevimli Hayelet Casper
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124180&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Sihirli Matematik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124181&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Sevimli Dostlar 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124159&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Barbie TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126221&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Bob Usta
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126222&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Hot Wheels
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126223&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Sevimli Ufaklıklar
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126224&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Buz Devri Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123407&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Çocuk",(TR) Pati Devriyesi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126598&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Turkiyem Mix 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213525&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Turkiyem Mix 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253500&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Hit Muzik 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253492&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Hit Muzik 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253493&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Hit Muzik 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253494&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Turk Halk Muzigi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253498&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Karadeniz Muzik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253485&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Pop Muzik 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253486&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Pop Muzik 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253487&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Turkish Rap 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253488&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Turkish Rap 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253489&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Arabesk 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253490&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Arabesk 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253491&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Favoritebox Kahve Esliginde
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253495&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) TRT Muzik 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=132&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Power TV 4K
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14833&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Power Turk 4K
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14830&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Power Turk Taptaze 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211156&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Power Turk Akustik 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=163306&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) NR1 4K
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14834&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) NR1 Turk 4K
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14831&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Kral TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=134&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Kral Pop 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Tmb 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=162871&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Dream TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=4030&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Ekin Turk TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=103026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Dream Turk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=430&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Volkan Konak
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=230128&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Koray Avci
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213529&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Ahmet Kaya
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127437&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Ferdi Baba Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126603&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Müslüm Baba Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126602&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Tatlises TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=146396&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Turkce Mix XP
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211171&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Türk Halk Müziği
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=230130&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Oyun Havalari
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=256168&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Karadeniz TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Trabzon Mix TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=230126&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Dev Karadeniz TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=230097&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Dark Turku 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213526&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Dark Turku 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213527&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) XP Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213530&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Ankara Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213528&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Tarkan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=230127&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Pop TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126244&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Pop TV 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=177537&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Pop Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126245&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Turkce Pop
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Mega Pop TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126246&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Net Pop TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126247&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Arabesk TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126236&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Kral Arabesk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Düet TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126239&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Mehmetcigin Turkuleri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207534&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Ozgun Muzik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213531&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Zeki Müren
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=230129&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Baris Manco
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126238&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Mashup Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Oyun Havalari
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126242&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Rap TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Nostaljik Mix
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126249&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Akustik Muzik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=163638&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - Müzik",(TR) Yildiz En Tv
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=146395&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250799&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250800&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250801&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250802&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250803&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250804&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 7
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250805&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 8
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250806&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 9
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250807&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 10
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250808&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 11
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250871&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 12
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250872&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 13
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250873&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Yabanci Popcorn 14
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250874&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216372&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216373&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216374&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216375&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216376&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Cinemaximum 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267732&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Cinemaximum 7
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267734&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Cinemaximum 8
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267735&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Cinemaximum 9
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267736&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Cinemaximum 10
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267737&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Romantik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215208&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Komedi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215207&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Gerilim
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215205&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Korku
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215202&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum BilimKurgu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215201&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Suc
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215203&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Macera
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215204&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Aksiyon
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215200&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) CInemaximum Fantastik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216381&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Movie Night Action 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267599&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Movie Night Action 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267600&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Movie Night Action 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267601&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Movie Night Action 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267602&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Movie Night Action 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267603&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Movie Night Action 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267605&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Favoritebox Disney+ 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267295&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Favoritebox Disney+ 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267296&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Favoritebox Disney+ 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267297&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Favoritebox Disney+ 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267298&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Favoritebox Disney+ 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267299&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Amazon Prime 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267290&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Amazon Prime 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267291&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Amazon Prime 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267292&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Amazon Prime 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267293&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Amazon Prime 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267294&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Action
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267606&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Bilim Kurgu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267607&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Fantastic
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267608&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Gerilim
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267609&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Korku
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267610&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Loca 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267611&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Loca 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267612&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Macera
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267613&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Orjinal
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267614&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Uzakdoğu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267617&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Vizyon
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267618&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Proturk Western
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267619&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267300&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267301&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267302&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267303&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267304&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267305&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 7
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267306&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 8
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267307&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 9
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267308&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 10
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267309&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 10
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267593&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 11
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267594&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 12
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267595&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 13
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267596&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 14
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267597&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) 7/24 NE*FLIX 15
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267598&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Romantik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215198&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Komedi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215206&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Gerilim
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215197&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Korku
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215196&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix BilimKurgu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215195&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Suc
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215194&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Macera
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215193&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Aksiyon
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215192&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Netflix Fantastik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=216380&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Action
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237585&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Comedy
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237590&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Macera
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237588&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Fantastic
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237586&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Bilim Kurgu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237587&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Vizyon
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237593&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Yerli
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237594&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Dram
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237591&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Korku
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237589&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Sinema",(TR) Mega Box Western
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237592&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_action_01_hd.png" group-title="TR - Sinema",(TR) beIN Movies Action 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31488&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_action_02_hd.png" group-title="TR - Sinema",(TR) beIN Movies Action 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=33201&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_family_hd.png" group-title="TR - Sinema",(TR) beIN Movies Family 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31490&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_premier_01_hd.png" group-title="TR - Sinema",(TR) beIN Movies Premiere 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31492&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_premier_02_hd.png" group-title="TR - Sinema",(TR) beIN Movies Premiere 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=33200&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_stars_hd.png" group-title="TR - Sinema",(TR) beIN Movies Stars 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31493&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_turk_hd.png" group-title="TR - Sinema",(TR) beIN Movies Turk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31494&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_series.png" group-title="TR - Sinema",(TR) beIN Series Drama 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31496&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/be_in_tr_series_scifi_hd.png" group-title="TR - Sinema",(TR) beIN Series 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31497&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/be_in_tr_series_vice_hd.png" group-title="TR - Sinema",(TR) beIN Series 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31498&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/be_in_tr_series_scifi_hd.png" group-title="TR - Sinema",(TR) beIN Series 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=210849&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/be_in_tr_series_scifi_hd.png" group-title="TR - Sinema",(TR) beIN Series 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=210850&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/movie_smart_action_hd.png" group-title="TR - Sinema",(TR) Sinema TV Aksiyon 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31500&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/sinema_tv_aksiyon_tr.png" group-title="TR - Sinema",(TR) Sinema TV Aksiyon 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28944&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="TR - Sinema",(TR) Sinema TV Komedi 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=210852&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="TR - Sinema",(TR) Sinema TV Komedi 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=210853&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/movie_smart_family_hd.png" group-title="TR - Sinema",(TR) Moviesmart Family 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31501&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/smart_sine_turk.png" group-title="TR - Sinema",(TR) Moviesmart Turk 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31505&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/dizi_smart_premium_hd.png" group-title="TR - Sinema",(TR) DiziSmart Premium 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=31499&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="TR - Sinema",(TR) Sinema TV 1001 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28942&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ss/sinema-1002-tr.png" group-title="TR - Sinema",(TR) Sinema TV 1002 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28950&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/sinema_tv_tr.png" group-title="TR - Sinema",(TR) Sinema TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28946&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/sinema_tv2_tr.png" group-title="TR - Sinema",(TR) Sinema TV 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28945&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/sinema_tv_aile_tr.png" group-title="TR - Sinema",(TR) Sinema Tv Aile 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=210851&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/sinema_tv_aile_tr.png" group-title="TR - Sinema",(TR) Sinema TV Aile 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28943&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XbSSFZ2.png" group-title="TR - Sinema",(TR) Filmbox 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=109553&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ee/epic-drama-se.png" group-title="TR - Sinema",(TR) Epic Drama 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=109552&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ee/epic-drama-se.png" group-title="TR - Sinema",(TR) Epic Drama HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=109551&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/movie_smart_premium_2_hd.png" group-title="TR - Sinema",(TR) Moviesmart Premium 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28939&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/movie_smart_platin_2_hd.png" group-title="TR - Sinema",(TR) Moviesmart Platin  4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28938&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/movie_smart_fest_hd.png" group-title="TR - Sinema",(TR) Moviesmart Fest 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7305&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/movie_smart_classic.png" group-title="TR - Sinema",(TR) Moviesmart Classic 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=28937&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_premier_02_hd.png" group-title="TR - Sinema",(TR) Bein Box office 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63099&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_premier_02_hd.png" group-title="TR - Sinema",(TR) Bein Box Office 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63100&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_movies_premier_02_hd.png" group-title="TR - Sinema",(TR) Bein Box Office 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63102&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ff/fx_us.png" group-title="TR - Sinema",(TR) FX 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68257&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Yesilcam 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253146&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Yesilcam 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253147&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127943&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127946&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128900&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın: Battal Gazi 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128909&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın: Battal Gazi 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128910&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın: Battal Gazi 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121732&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kemal Sunal 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127947&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kemal Sunal 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127948&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kemal Sunal 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127949&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kemal Sunal 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127950&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kemal Sunal 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128905&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Hababam Sinifi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=195560&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Tarık Akan 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128906&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Tarık Akan 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128907&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Tarık Akan 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126234&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128912&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128913&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128914&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Türkan Şoray 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122232&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Türkan Şoray 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122233&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Türkan Şoray 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128923&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Yilmaz Güney 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128924&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Yilmaz Güney 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128925&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Hülya Avşar 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128926&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Hülya Avşar 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125234&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kartal Tibet 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127260&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kartal Tibet 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125237&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kartal Tibet: Tarkan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122159&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Şener Şen 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125238&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Şener Şen 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128946&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Ibrahim Tatlıses 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=128927&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Ibrahim Tatlıses 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125235&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Ilyas Salman
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125236&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Orhan Gencebay
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122183&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Adile Naşit 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121892&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Adile Naşit 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121893&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Adile Naşit 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121894&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın: Kara Murat
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121733&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cüneyt Arkın: Malkoçoğlu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=121734&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 70'ler 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122043&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 70'ler 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122044&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 80'ler
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122045&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Kadir İnanır 90'lar
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122046&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Asirlik Gece
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=264332&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Muhtemel Ask
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=264333&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Alti Ustu Istanbul
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=264334&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Evlilik Muessesesi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=264335&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Tasacak Bu Deniz
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245374&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Esref Ruya: Sezon 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245375&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Esref Ruya: Sezon 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245376&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Uzak Sehir: Sezon 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245615&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Uzak Sehir: Sezon 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245616&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Kurulus Orhan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245377&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Halef Koklerin Cagrisi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245617&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Veliaht
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245618&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Gassal: Sezon 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=229855&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Gassal: Sezon 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=229856&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Kara Sevda
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207315&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Ask Mantik Intikam
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207316&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Yali Capkini
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207314&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Bay Yanlis
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207320&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Erkenci Kus
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207321&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Yaz Sarkisi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207535&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Gencligim Eyvah
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=208842&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Inci Taneleri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207310&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Yetis Zeynep
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207573&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Ersan Kuneri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207581&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Soz
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207462&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Bodrum Masali
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207642&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Gurkan Sef Ile Ates Oyunlari
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207531&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Konusanlar 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213533&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Konusanlar 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213534&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Konusanlar 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213535&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Konusanlar 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=213536&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Teskilat: Sezon 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123850&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Teskilat: Sezon 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123851&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Teskilat: Sezon 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123852&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Teskilat: Sezon 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245619&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Teskilat: Sezon 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245620&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Teskilat: Sezon 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245621&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Kardeş Payi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123359&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Börü: Sezon 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123363&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Börü 2039: Sezon 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123364&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jason Statham
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135121&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Tom Cruise
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135105&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Sylvester Stallone
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135106&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jackie Chan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135122&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jackie Chan 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=260290&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jackie Chan 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=260291&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jet Li
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135119&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Bruce Willis
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135129&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) J.C. Van Damme
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135123&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Hızlı ve Öfkeli Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135139&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Görevimiz Tehlike Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135140&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Rambo Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=127436&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Rocky Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123408&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Rocky Koleyksiyonu 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=253308&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Arnold Schwarzenegger
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135131&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Al Pacino
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135135&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Vin Diesel
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135103&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Mr Bean
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126601&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Johhny Depp
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135117&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jim Carry
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135118&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Jennifer Lopez
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135120&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Tom Hanks
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135104&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) The Matrix Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123405&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Harry Potter Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123854&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Sniper Koleksiyonsu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135136&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Marvel Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135137&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Kovboy Koleksiyon
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135138&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Robocop Koleksiyonu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135165&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Bruce Lee
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=123406&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Charlie Chaplin
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124468&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Scott Adkins
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135108&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Samuel L Jackson
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135109&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Robert de Niro
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135110&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Quentin Tarantino
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135111&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Nicolas Cage
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135112&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Mel Gibson
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135113&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Mark Wahlberg
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135114&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Keanu Reeves
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135115&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) John Cusack
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135116&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) George Clooney
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135124&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Danny Trejo
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135125&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Daniel Craig
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135126&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Denzel Washington
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135127&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Chris Evans
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135128&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Brad Pitt
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135130&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yabanci Sinema",(TR) Andrew Garfield
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135134&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Ayhan Işık
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125232&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Cilali Ibo
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125233&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yeşilçam Sinema",(TR) Serdar Gökhan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125239&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Diziler 7/24",(TR) Ezel
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126604&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250788&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250789&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250790&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250791&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250792&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250793&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 7
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250794&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 8
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250796&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 9
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250797&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 10
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250798&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 11
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250866&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 12
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250867&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 13
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250868&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 14
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250869&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Favoritebox Yerli 15
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=250870&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cinemaximum Yerli 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215178&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cinemaximum Yerli 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215179&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cinemaximum Yerli 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215180&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cinemaximum Yerli 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215181&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cinemaximum Yerli 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=215182&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Komedi 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211225&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Komedi 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211226&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Komedi 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211227&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Komedi 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=212535&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Komedi 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=220948&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Tabii Orginal 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=202108&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Tabii Orginal 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=202109&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Tabii Orginal 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=202110&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Sinema 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248376&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Sinema 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248377&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Sinema 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248378&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Sinema 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248379&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Sinema 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248380&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Yerli Sinema 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248381&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267585&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267586&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267587&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267588&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267589&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 6
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267590&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Cine Office 7
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=267591&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Gain 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211151&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Gain 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=211154&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Sinema Comedy
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=141199&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Sinema Aile
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=141197&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Sinema Yerli
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=141194&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Sinemax Turk
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=141193&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Sinema 1001
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=141190&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Şafak Sezer 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=145069&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Şafak Sezer 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=145070&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Şafak Sezer 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=145071&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Recep Ivedik
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122531&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Taff Pictures Sinema TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126608&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Yerli Sinema",(TR) Nuri Bilge Ceylan
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135164&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=93613&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=110238&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=93614&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=110239&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=93615&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 3 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=110240&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=94659&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 4 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=110241&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 5 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=94658&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 5 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=110242&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 6 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=94660&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/Exxen.png" group-title="TR - Exxen & Tabii Spor",(TR) Exxen 6 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=110243&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=208824&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=208825&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201902&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201901&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201900&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201899&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201898&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 3 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201897&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201896&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 4 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201895&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 5 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201894&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 5 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201893&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 6 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201892&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 6 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201891&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 7 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201890&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 7 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201889&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 8 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201888&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 8 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201887&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 9 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201886&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 9 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201885&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 10 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201884&extension=ts
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/f5raui8.jpg" group-title="TR - Exxen & Tabii Spor",(TR) Tabii Spor 10 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=201883&extension=ts
+#EXTINF:-1 tvg-logo="http://163.172.99.236/ambiti/tvkarambita/Turkey/tivibu_tr_spor.png" group-title="TR - Spor",(TR) Tivibu Spor 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=256051&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tivibu_tr_spor.png" group-title="TR - Spor",(TR) Tivibu Spor 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13469&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tivibu_tr_spor_2.png" group-title="TR - Spor",(TR) Tivibu Spor 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13470&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tivibu_tr_spor_3.png" group-title="TR - Spor",(TR) Tivibu Spor 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13458&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor.png" group-title="TR - Spor",(TR) Tivibu Spor 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=255772&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/smart_spor_hd.png" group-title="TR - Spor",(TR) Smart Spor 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13471&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/smart_spor_hd.png" group-title="TR - Spor",(TR) Smart Spor HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=12799&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_spor_tr.png" group-title="TR - Spor",(TR) TRT Spor 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14828&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_spor_tr.png" group-title="TR - Spor",(TR) TRT Spor HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=9858&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.nxtbox.tv/satlogo/turkey/trt_spor_tr.png" group-title="TR - Spor",(TR) TRT Spor Yildiz 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=102765&extension=ts
+#EXTINF:-1 tvg-logo="https://picon.nxtbox.tv/satlogo/turkey/trt_spor_tr.png" group-title="TR - Spor",(TR) TRT Spor Yildiz HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=209159&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/trt_spor_tr.png" group-title="TR - Spor",(TR) TRT Spor 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68255&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/trt_spor_tr.png" group-title="TR - Spor",(TR) TRT Spor 3 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=209161&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/htspor.png" group-title="TR - Spor",(TR) HT Spor 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=214227&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/htspor.png" group-title="TR - Spor",(TR) HT Spor HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=214228&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/a_spor_tr.png" group-title="TR - Spor",(TR) A Spor 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14824&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/a_spor_tr.png" group-title="TR - Spor",(TR) A Spor HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=92&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport Plus 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=261317&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport Plus HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=261318&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=108153&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=108152&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=108151&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=108150&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 5 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=108149&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 6 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=108148&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=29745&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=46640&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 3 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232158&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 4 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232159&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 5 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232160&extension=ts
+#EXTINF:-1 tvg-logo="http://ipro.tv/picons/ssport.png" group-title="TR - S Sport+",(TR) S Sport+ 6 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232161&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SIFIR.BIR.png" group-title="TR - Spor",(TR) Sifir TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232534&extension=ts
+#EXTINF:-1 tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SIFIR.BIR.png" group-title="TR - Spor",(TR) Sifir TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232535&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Spor",(TR) Ekol Sport 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232532&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Spor",(TR) Ekol Sport HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=232533&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/british_eurosport_1.png" group-title="TR - Spor",(TR) EuroSport 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7774&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/british_eurosport_2.png" group-title="TR - Spor",(TR) EuroSport 2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7877&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/sports_tv_tr.png" group-title="TR - Spor",(TR) Sports TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=1117&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/nn/nba_tv_us.png" group-title="TR - Spor",(TR) NBA TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63107&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/d_tay_tv.png" group-title="TR - Spor",(TR) Tay TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14836&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/galatasaray_tv.png" group-title="TR - Spor",(TR) GS TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7875&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/fbtv_fenerbahce.png" group-title="TR - Spor",(TR) FB TV HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7874&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/TJKTV_Logo.PNG.jpeg" group-title="TR - Spor",(TR) TJK HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8708&extension=ts
+#EXTINF:-1 tvg-logo="http://itekpro.xyz/picons/ppv1.png" group-title="TR - Spor",(TR) GLORY Collision 9
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=79286&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Spor",(TR) WWE TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=122560&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Spor",(TR) Bilek Güreşi TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124333&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Spor",(TR) Fifa E-Sport TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125225&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/max_smart_premium_hd.png" group-title="TR - Sinema",(TR) DiziSmart Max 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=66103&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Spor",(TR) UFC Osmanlı Tokadı
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=135160&extension=ts
+#EXTINF:-1 tvg-logo="http://myking.best/ch_logo/BEINSPORTSHABERHDPLUS.png" group-title="TR - BeIN Sports",(TR) Bein Sports Haber 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=27725&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 8K++
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=245192&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 8K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=248557&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 4K++
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=32950&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=1799&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41811&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 Yedek
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=1815&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 1 (low)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=42312&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_02_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13478&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_02_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 2 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41810&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_02_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 2 Yedek
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=23321&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_02_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 2 (low)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=42313&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_03_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 3 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=1801&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_03_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 3 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41809&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_03_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 3 Yedek
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=23322&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_03_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 3 (low)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=42314&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_04_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 4 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41808&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_04_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 4 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=1989&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_04_hd.png" group-title="TR - BeIN Sports",(TR) Bein Sports 4 (low)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=41807&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="TR - BeIN Sports",(TR) Bein Sports 5 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=109252&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="TR - BeIN Sports",(TR) Bein Sports 5 HD+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=109251&extension=ts
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_max_1.png" group-title="TR - BeIN Sports",(TR) Bein Sports Max 1 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13599&extension=ts
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_max_2.png" group-title="TR - BeIN Sports",(TR) Bein Sports Max 2 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=15181&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_4k_tr.png" group-title="TR - Belgesel",(TR) TRT 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=35481&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_belgesel_tr_hd.png" group-title="TR - Belgesel",(TR) TRT Belgesel 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14808&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/trt_avaz_tr.png" group-title="TR - Belgesel",(TR) TRT Avaz
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14983&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/nat_geo_us_hd.png" group-title="TR - Belgesel",(TR) National Geo 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=6484&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/nat_geo_wild_us_hd.png" group-title="TR - Belgesel",(TR) Nat Geo Wild 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=6485&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/discovery_global_us_hd.png" group-title="TR - Belgesel",(TR) Discovery Channel 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=1533&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/discovery_science_global_hd.png" group-title="TR - Belgesel",(TR) Discovery Science 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=13316&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/discoID.png.jpeg" group-title="TR - Belgesel",(TR) Discovery ID 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63104&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/own/tr/dmax.png" group-title="TR - Belgesel",(TR) Dmax 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=47458&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/tlc_de.png" group-title="TR - Belgesel",(TR) TLC 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=14810&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/bbc_earth_uk.png" group-title="TR - Belgesel",(TR) BBC Earth 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=70770&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/vv/viasat_explore_ru.png" group-title="TR - Belgesel",(TR) Viasat Explore
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=68256&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/germany/history_us.png" group-title="TR - Belgesel",(TR) Viasat History
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=91791&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/nat_geo_people_us_hd.png" group-title="TR - Belgesel",(TR) Love Nature
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=8448&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/be_in_tr_iz_hd.png" group-title="TR - Belgesel",(TR) Bein IZ TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=7872&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/be_in_tr_gurme_hd.png" group-title="TR - Belgesel",(TR) Bein Gurme 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63105&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey2/tgrt_belgesel.png" group-title="TR - Belgesel",(TR) TGRT Belgesel 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=4280&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/ciftci_tv_tr.png" group-title="TR - Belgesel",(TR) Ciftci TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2145&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/yaban_tv_tr.png" group-title="TR - Belgesel",(TR) Yaban TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=73&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/dd/da-vinci-de.png" group-title="TR - Belgesel",(TR) Da Vinci
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=63103&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/darklogo22.png" group-title="TR - Dini",(TR) Kabe TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=2100&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Saudi Sunnah
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=237557&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Vav TV 4K+
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=257685&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Dini Sinema TV 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124396&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Dini Sinema TV 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124397&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Dini Sinema TV 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124398&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Dur Yolcu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124399&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Hz. Muhammed'in (S.a.v) Hayati
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124411&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Hz. Ömer (R.a)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124224&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Hz. Meryem (A.s)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124400&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Hz. Yusuf (A.s)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124401&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Sami Yusuf
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126254&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) İmam Ali (A.s)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124409&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Kınalı Kuzular
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124402&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Kur'an-ı Kerim TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124410&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Dua TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124405&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Hareketli Ilahi TV
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124412&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Duygusal Ilahi TV 1
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124406&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Duygusal Ilahi TV 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124407&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Duygusal Ilahi TV 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124408&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Çocuk İlahileri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124416&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Şeker Hoca
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124413&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Yusuf'un Dünyasi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124414&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Harfler Köyü
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124415&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Dinle Konuyu Bil Soruyu
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124417&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Yunus Emre
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125259&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Hz. Isa Mesih
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126229&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Kur'an'ın Söyledikleri
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126231&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Sır
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126232&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Kur'an-ı Kerim Nüzul (İniş)
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126233&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Sohbetler
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126577&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Dini",(TR) Sehr-i Osmanli
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126145&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Buyuk Gocler
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207525&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Chef Story
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207130&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) SportBox
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207293&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) StoryBox
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125224&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Sakli Istanbul Belgesel
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207668&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Sinema Belgesel
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207294&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) 2008 Milli Takim Hikayesi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207317&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) 103 Gol
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=208894&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Anadolu Arkeolojisi
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=208339&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Sokopop Yesilcam
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207533&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Sehr- i Osmanli
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207292&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Astrojik Sifreler
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207536&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Bayraktar Akinci
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207300&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Bayraktar TB 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207301&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Tabuta Sigmayanlar
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207303&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Tabuta Sigmayanlar 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207304&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Tabuta Sigmayanlar 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207306&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Tabuta Sigmayanlar 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207307&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Tabuta Sigmayanlar 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207308&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Duymadim Deme
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207295&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Duymadim Deme 2
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207296&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Duymadim Deme 3
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207297&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Duymadim Deme 4
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207298&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Duymadim Deme 5
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=207299&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Amerika Depo Savaşları
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=124395&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Survivor Inşaatçılar
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=125229&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - Belgesel",(TR) Jungle Survivor
+http://nxtbox.uk:80/play/live.php?mac=00:1A:79:A1:8A:84&stream=126226&extension=ts
