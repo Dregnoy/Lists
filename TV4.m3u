@@ -1,0 +1,485 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trt1.png" group-title="Turkey",TR: TRT 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108780&extension=ts&play_token=kp72qeuEpk
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trt1.png" group-title="Turkey",TR: TRT 1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108779&extension=ts&play_token=sB1iVLVgcZ
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trt2.png" group-title="Turkey",TR: TRT 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108778&extension=ts&play_token=rDZd4l6H8Y
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trt2.png" group-title="Turkey",TR: TRT 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108777&extension=ts&play_token=FK6idgU2er
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/atv.png" group-title="Turkey",TR: ATV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108776&extension=ts&play_token=JueY5B1KMu
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/atv.png" group-title="Turkey",TR: ATV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108775&extension=ts&play_token=WFU66B1Ynf
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/showtv.png" group-title="Turkey",TR: SHOW TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108774&extension=ts&play_token=OBMB9tyQ1S
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/showtv.png" group-title="Turkey",TR: SHOW TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108773&extension=ts&play_token=0pt3w1Su4w
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/showturk.png" group-title="Turkey",TR: SHOW TURK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108772&extension=ts&play_token=yeJTDEAaFH
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/showmax.png" group-title="Turkey",TR: SHOW MAX FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108771&extension=ts&play_token=McO7nmDEhk
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanald.png" group-title="Turkey",TR: KANAL D FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108770&extension=ts&play_token=3Tty9I6MVH
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanald.png" group-title="Turkey",TR: KANAL D HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108769&extension=ts&play_token=aNNpugCu3x
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv8.png" group-title="Turkey",TR: TV 8 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108768&extension=ts&play_token=lWg4obT8lA
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv8.png" group-title="Turkey",TR: TV 8 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108767&extension=ts&play_token=E6ctjps03L
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv8int.png" group-title="Turkey",TR: TV 8 INT FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108766&extension=ts&play_token=i3z7EbmKOy
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv85.png" group-title="Turkey",TR: TV 8.5 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108765&extension=ts&play_token=tFo6dGRpHl
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv85.png" group-title="Turkey",TR: TV 8.5 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108764&extension=ts&play_token=rr000zmdbx
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/now.png" group-title="Turkey",TR: NOW FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108763&extension=ts&play_token=FLf7NbDJrU
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/now.png" group-title="Turkey",TR: NOW HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108762&extension=ts&play_token=XJO6tY58BL
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinseries1.png" group-title="Turkey",TR: beIN Series 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108761&extension=ts&play_token=LRXcZUDq1L
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinseries2.png" group-title="Turkey",TR: beIN Series 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108760&extension=ts&play_token=jBqQmxgiXk
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kralpop.png" group-title="Turkey",TR: KRALPOP HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108759&extension=ts&play_token=Q9LDRVZkSK
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tivi6.png" group-title="Turkey",TR: TIVI 6 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108758&extension=ts&play_token=bqOMLYyoeG
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: tabii Tv FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108757&extension=ts&play_token=RnhlmPfGpt
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nr1ask.png" group-title="Turkey",TR: NR1 ASK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108756&extension=ts&play_token=EZmGAhhFoS
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nr1damar.png" group-title="Turkey",TR: NR1 DAMAR FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108755&extension=ts&play_token=9Lm8UadOfS
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="Turkey",TR: KANAL 7 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108754&extension=ts&play_token=2hQ71QcA7W
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="Turkey",TR: KANAL 7 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108753&extension=ts&play_token=LPenyidNXw
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal7avrupa.png" group-title="Turkey",TR: KANAL 7 AVRUPA FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108752&extension=ts&play_token=qyGcZZjDL4
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/atvavrupa.png" group-title="Turkey",TR: AVRUPA
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108751&extension=ts&play_token=YYODXBIB5n
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal15.png" group-title="Turkey",TR: KANAL 15
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108750&extension=ts&play_token=BDcg9B8QhM
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/eurostar.png" group-title="Turkey",TR: EURO STAR HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108749&extension=ts&play_token=zM7glUNovv
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/eurod.png" group-title="Turkey",TR: EURO D HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108748&extension=ts&play_token=jpv8FFN60H
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv5.png" group-title="Turkey",TR: TV5
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108747&extension=ts&play_token=mVWiSWyESk
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beyaztv.png" group-title="Turkey",TR: BEYAZ TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108746&extension=ts&play_token=su4ZJOxYPB
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beyaztv.png" group-title="Turkey",TR: BEYAZ TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108745&extension=ts&play_token=SfYzNdt2JE
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/a2tv.png" group-title="Turkey",TR: A2 TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108744&extension=ts&play_token=b2JTLTFm0f
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/a2tv.png" group-title="Turkey",TR: A2 TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108743&extension=ts&play_token=BaLsDIB4CW
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/apara.png" group-title="Turkey",TR: A PARA FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108742&extension=ts&play_token=e8R9sH1KAM
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/apara.png" group-title="Turkey",TR: A PARA HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108741&extension=ts&play_token=NFNEEC3wRE
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fmtv.png" group-title="Turkey",TR: FM TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108740&extension=ts&play_token=8VSo6SgH4Y
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fx.png" group-title="Turkey",TR: FX FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108739&extension=ts&play_token=SDYKz7sLPc
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/epicdrama.png" group-title="Turkey",TR: EPIC DRAMA FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108738&extension=ts&play_token=lqKMPqHwW5
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/startv.png" group-title="Turkey",TR: STAR TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108737&extension=ts&play_token=PUZIlugFJC
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/startv.png" group-title="Turkey",TR: STAR TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108736&extension=ts&play_token=NSlRPyfWTU
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/360tv.png" group-title="Turkey",TR: 360 TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108735&extension=ts&play_token=7okDdHHe4A
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/360tv.png" group-title="Turkey",TR: 360 TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108734&extension=ts&play_token=C7LPPMGL7v
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Turkey",TR: TLC FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108733&extension=ts&play_token=SPrg6KPMFe
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Turkey",TR: TLC HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108732&extension=ts&play_token=UFHgv7ISN8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/teve2.png" group-title="Turkey",TR: TEVE 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108731&extension=ts&play_token=ZNXZDdJ2cn
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/teve2.png" group-title="Turkey",TR: TEVE 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108730&extension=ts&play_token=AqlK6VFqEY
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv100.png" group-title="Turkey",TR: TV100 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108729&extension=ts&play_token=WoOdCBY2XO
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv100.png" group-title="Turkey",TR: TV100 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108728&extension=ts&play_token=ldQAFvg3Yg
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/flashtv.png" group-title="Turkey",TR: FLASH TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108727&extension=ts&play_token=kkAsh5YSRu
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/flashhabertv.png" group-title="Turkey",TR: FLASH HABER HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108726&extension=ts&play_token=eo4dOAYIYS
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dmax.png" group-title="Turkey",TR: DMAX FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108725&extension=ts&play_token=bXG1AIOcB0
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/vavtv.png" group-title="Turkey",TR: VAV TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108724&extension=ts&play_token=Y3oHvUAaig
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/turkhaber.png" group-title="Turkey",TR: TURKHABER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108723&extension=ts&play_token=fvv4hYM0Nt
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/turkhaber.png" group-title="Turkey",TR: TURKHABER HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108722&extension=ts&play_token=eekU0bu2BD
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cnnturk.png" group-title="Turkey",TR: CNN TÜRK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108721&extension=ts&play_token=YB8JVoq6z6
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ntv.png" group-title="Turkey",TR: NTV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108720&extension=ts&play_token=d1h3qGmoma
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ntvhaber.png" group-title="Turkey",TR: NTV Haber FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108719&extension=ts&play_token=agxam9LWy6
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ekoturk.png" group-title="Turkey",TR: EKO TÜRK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108718&extension=ts&play_token=gdG5LdAj3n
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tgrthaber.png" group-title="Turkey",TR: TGRT HABER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108717&extension=ts&play_token=IMtjbtSRjn
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tgrthaber.png" group-title="Turkey",TR: TGRT HABER HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108716&extension=ts&play_token=kePXZSBnoW
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tgrteu.png" group-title="Turkey",TR: TGRT EU
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108715&extension=ts&play_token=DrmegnxuYB
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trthaber.png" group-title="Turkey",TR: HABER TÜRK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108714&extension=ts&play_token=d5TopDI7kw
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trthaber.png" group-title="Turkey",TR: HABER TÜRK HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108713&extension=ts&play_token=VVx8Ghm3OY
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ahaber.png" group-title="Turkey",TR: A HABER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108712&extension=ts&play_token=vB9MQtiKNE
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ahaber.png" group-title="Turkey",TR: A HABER HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108711&extension=ts&play_token=eM1DpSD87p
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trthaber.png" group-title="Turkey",TR: TRT HABER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108710&extension=ts&play_token=aqxFyuLCcf
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trthaber.png" group-title="Turkey",TR: TRT HABER HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108709&extension=ts&play_token=Qi4M7wuiSq
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/24.png" group-title="Turkey",TR: 24 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108708&extension=ts&play_token=LfYXUwRHHg
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/24.png" group-title="Turkey",TR: 24 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108707&extension=ts&play_token=65kQsuvGqQ
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bloomberght.png" group-title="Turkey",TR: BLOOMBERG HT FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108706&extension=ts&play_token=a7HkEzhrYU
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/halktv.png" group-title="Turkey",TR: HALK TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108705&extension=ts&play_token=yD2wk6rmso
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/halktv.png" group-title="Turkey",TR: HALK TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108704&extension=ts&play_token=U8zfRzjiW5
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tele1.png" group-title="Turkey",TR: TELE 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108703&extension=ts&play_token=a5L425qBxx
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/haberglobal.png" group-title="Turkey",TR: HABER GLOBAL FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108702&extension=ts&play_token=r2qO9zVnpl
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/haberglobal.png" group-title="Turkey",TR: HABER GLOBAL HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108701&extension=ts&play_token=nWxwSiy0Nu
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ulketv.png" group-title="Turkey",TR: ÜLKE TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108700&extension=ts&play_token=JPoVPn7iEI
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ulketv.png" group-title="Turkey",TR: ÜLKE TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108699&extension=ts&play_token=ip5Rnp2Lsm
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/idmantv.png" group-title="Turkey",TR: IDMAN TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108698&extension=ts&play_token=6OU7UEy9AR
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tvnet.png" group-title="Turkey",TR: TVNET FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108697&extension=ts&play_token=14a9cctNN3
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tvnet.png" group-title="Turkey",TR: TVNET HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108696&extension=ts&play_token=Vg8qGKqSwy
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/akittv.png" group-title="Turkey",TR: AKIT TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108695&extension=ts&play_token=MnaWDBFh1D
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: BENGÜ TÜRK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108694&extension=ts&play_token=c9H37Q7BZr
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ulusalkanal.png" group-title="Turkey",TR: ULUSAL KANAL
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108693&extension=ts&play_token=h9aUPVyXcY
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/krtv.png" group-title="Turkey",TR: KRT TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108692&extension=ts&play_token=xhDR0mQcXg
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtspor.png" group-title="Turkey",TR: TRT SPOR FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108691&extension=ts&play_token=Awtn9MTQON
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtspor.png" group-title="Turkey",TR: TRT SPOR HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108690&extension=ts&play_token=GqIlfHbakY
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtsporyildiz.png" group-title="Turkey",TR: TRT SPOR YILDIZ FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108689&extension=ts&play_token=M2TofjRUNc
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtsporyildiz.png" group-title="Turkey",TR: TRT SPOR YILDIZ HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108688&extension=ts&play_token=VqwCRDovit
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aspor.png" group-title="Turkey",TR: A SPOR FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108687&extension=ts&play_token=Ymw5tGgY0W
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aspor.png" group-title="Turkey",TR: A SPOR HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108686&extension=ts&play_token=aSehjqPIPe
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sportstv.png" group-title="Turkey",TR: SPORTS TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108685&extension=ts&play_token=ZHtpK8X3Q1
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wsport.png" group-title="Turkey",TR: W-SPORT FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108684&extension=ts&play_token=OSULE8EqjI
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fbtv.png" group-title="Turkey",TR: FB TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108683&extension=ts&play_token=9IC2Xojn7j
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fightnetwork.png" group-title="Turkey",TR: FIGHT NETWORK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108682&extension=ts&play_token=PB2QLpTBio
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Turkey",TR: EUROSPORT 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108681&extension=ts&play_token=0yZja5wFzA
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Turkey",TR: EUROSPORT 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108680&extension=ts&play_token=XwoCwyLdWi
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sportskool.png" group-title="Turkey",TR: EKOL SPORTS FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108679&extension=ts&play_token=8YGzYJDapq
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: TJK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108678&extension=ts&play_token=sv1tgMPyw9
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtbelgesel.png" group-title="Turkey",TR: TRT BELGESEL FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108677&extension=ts&play_token=DjbWeA8VHq
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtbelgesel.png" group-title="Turkey",TR: TRT BELGESEL HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108676&extension=ts&play_token=cos1UDFa9C
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tarihtv.png" group-title="Turkey",TR: TARIH TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108675&extension=ts&play_token=6uNucNpD3S
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/viasatexplore.png" group-title="Turkey",TR: VIASAT EXPLORE [EN-TR]
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108674&extension=ts&play_token=cAAbCtELkO
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeo.png" group-title="Turkey",TR: NAT GEO FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108673&extension=ts&play_token=6ev0wPGywo
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="Turkey",TR: NAT GEO WILD FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108672&extension=ts&play_token=hqPLQTNrB2
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history.png" group-title="Turkey",TR: HISTORY FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108671&extension=ts&play_token=6nHuPEj05p
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/viasathistory.png" group-title="Turkey",TR: VIASAT HISTORY FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108670&extension=ts&play_token=zqRZlNjIwN
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Turkey",TR: DISCOVERY CHANNEL FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108669&extension=ts&play_token=toHOUjfJ6a
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryid.png" group-title="Turkey",TR: DISCOVERY ID FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108668&extension=ts&play_token=6qSCDQGGRq
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/davinci.png" group-title="Turkey",TR: DA VINCI FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108667&extension=ts&play_token=sVrJ86iq5Q
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ekoturk.png" group-title="Turkey",TR: EKOTURK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108666&extension=ts&play_token=axRLJ5mSNm
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Turkey",TR: DISCOVERY SCIENCE HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108665&extension=ts&play_token=NOb1zEK6rV
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/liderhaber.png" group-title="Turkey",TR: LIDER HABER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108664&extension=ts&play_token=N2gpORO4ZW
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Turkey",TR: BBC EARTH FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108663&extension=ts&play_token=lLqoa9jMDv
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kooltv.png" group-title="Turkey",TR: EKOL TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108662&extension=ts&play_token=aXKqPigQYL
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv41.png" group-title="Turkey",TR: tv 41
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108661&extension=ts&play_token=bgPmBFxQaK
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/atvavrupa.png" group-title="Turkey",TR: ATV AVRUPA
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108660&extension=ts&play_token=ruSy5XfPZi
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beingurme.png" group-title="Turkey",TR: beIN GURME FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108659&extension=ts&play_token=IScNXM3e6Y
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lovenature.png" group-title="Turkey",TR: LOVE NATURE FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108658&extension=ts&play_token=Gd4BIyRl5U
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemakomedi2.png" group-title="Turkey",TR: SINEMA KOMEDI 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108657&extension=ts&play_token=ckgToJdy7V
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinematv.png" group-title="Turkey",TR: SINEMA TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108656&extension=ts&play_token=Ev08v3rE06
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinematv2.png" group-title="Turkey",TR: SINEMA TV 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108655&extension=ts&play_token=XSqkGnKlrh
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinhe.png" group-title="Turkey",TR: beIN H&E HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108654&extension=ts&play_token=Ls0ur3Hits
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv2020.png" group-title="Turkey",TR: TV 2020 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108653&extension=ts&play_token=qjP4Zxqcmy
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/teba.png" group-title="Turkey",TR: TRT EBA FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108652&extension=ts&play_token=YPmdo6Ivbg
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ebatvortaokul.png" group-title="Turkey",TR: EBA TV ORTAOKUL HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108651&extension=ts&play_token=DKiSqKVJyN
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtcocuk.png" group-title="Turkey",TR: TRT ÇOCUK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108650&extension=ts&play_token=gpSHDRQJyE
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtcocuk.png" group-title="Turkey",TR: TRT ÇOCUK HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108649&extension=ts&play_token=lvZf8zrI10
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/disneyjr.png" group-title="Turkey",TR: DISNEY JR. FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108648&extension=ts&play_token=9BKwXZgY5e
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Turkey",TR: CARTOON NETWORK
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108647&extension=ts&play_token=31gwRNnB2H
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tekrumelitv.png" group-title="Turkey",TR: TEK RUMELI TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108646&extension=ts&play_token=GW1pg5kr7y
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/babytv.png" group-title="Turkey",TR: BABY TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108645&extension=ts&play_token=CXypq7expM
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/smartcocuk.png" group-title="Turkey",TR: SMART COCUK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108644&extension=ts&play_token=LVph1jhxGx
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/minikacocuk.png" group-title="Turkey",TR: MINIKA ÇOCUK
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108643&extension=ts&play_token=PmdLFn0EeC
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/minikago.png" group-title="Turkey",TR: MINIKA GO
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108642&extension=ts&play_token=AWKxEplmyl
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cartoonito.png" group-title="Turkey",TR: CARTOONITO FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108641&extension=ts&play_token=f2IRwT5DSm
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/screen.png" group-title="Turkey",TR: DOCUSCREEN FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108640&extension=ts&play_token=kSyrDPPI9H
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Turkey",TR: NICKELODEON FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108639&extension=ts&play_token=4RDb60tcKW
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Turkey",TR: NICK JR. HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108638&extension=ts&play_token=SbGB56o5UV
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="Turkey",TR: NICKTOONS
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108637&extension=ts&play_token=ufAWzdwUxf
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/anews.png" group-title="Turkey",TR: A NEWS FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108636&extension=ts&play_token=xBS4LdEiUY
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtworld.png" group-title="Turkey",TR: TRT WORLD HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108635&extension=ts&play_token=Tn76VwqVJ5
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/france24.png" group-title="Turkey",TR: FRANCE 24 AR
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108634&extension=ts&play_token=YX9RFXyoNN
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dreamturk.png" group-title="Turkey",TR: DREAM TÜRK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108633&extension=ts&play_token=KSWtcuRjib
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtmuzik.png" group-title="Turkey",TR: TRT MÜZIK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108632&extension=ts&play_token=c7slJzCHaA
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nr1turk.png" group-title="Turkey",TR: NR1 TURK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108631&extension=ts&play_token=XyDZCwGqBX
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nr1.png" group-title="Turkey",TR: NR1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108630&extension=ts&play_token=zbVr51NemD
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tmbtv.png" group-title="Turkey",TR: TMB TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108629&extension=ts&play_token=YBeSr0upZ4
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtdiyanetcocuk.png" group-title="Turkey",TR: TRT Diyanet Çocuk FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108628&extension=ts&play_token=r1RXK8kCoh
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/rttr.png" group-title="Turkey",TR: TRT TÜRK HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108627&extension=ts&play_token=HQT7b1D9Uj
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtarabi.png" group-title="Turkey",TR: TRT ARABI HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108626&extension=ts&play_token=38K4PP3ups
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtavaz.png" group-title="Turkey",TR: TRT AVAZ FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108625&extension=ts&play_token=RSKN8XwB7L
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtavaz.png" group-title="Turkey",TR: TRT AVAZ HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108624&extension=ts&play_token=5dxtww9Pui
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/trtkurdi.png" group-title="Turkey",TR: TRT KURDÎ HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108623&extension=ts&play_token=rKrCzqwcox
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/diyanettv.png" group-title="Turkey",TR: DIYANET TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108622&extension=ts&play_token=auL5db7huN
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/semerkand.png" group-title="Turkey",TR: SEMERKAND HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108621&extension=ts&play_token=h91KJbFLeB
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: ÇİFTÇİ TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108620&extension=ts&play_token=eWcsUsF8uE
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv4.png" group-title="Turkey",TR: TV4 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108619&extension=ts&play_token=58ICEf3Vvq
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kontv.png" group-title="Turkey",TR: KON TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108618&extension=ts&play_token=o4vseVt4GK
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal26.png" group-title="Turkey",TR: KANAL 26 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108617&extension=ts&play_token=cH77PKIpAP
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanalv.png" group-title="Turkey",TR: KANAL V HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108616&extension=ts&play_token=h2V2Fd1leC
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kibristv.png" group-title="Turkey",TR: KIBRIS ADA TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108615&extension=ts&play_token=0xBwTy3e8S
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kibrisgenctv.png" group-title="Turkey",TR: KIBRIS GENC TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108614&extension=ts&play_token=VTsDFViWtN
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aksutv.png" group-title="Turkey",TR: AKSU TV (KAHRAMAN MARAS) HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108613&extension=ts&play_token=iJOTbtq2c5
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kibristv.png" group-title="Turkey",TR: KIBRIS TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108612&extension=ts&play_token=FzZTJco3py
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal23.png" group-title="Turkey",TR: KANAL 23 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108611&extension=ts&play_token=Cm5NkMigQ0
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanalt.png" group-title="Turkey",TR: KANAL T FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108610&extension=ts&play_token=SLtNz6SCfy
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal3.png" group-title="Turkey",TR: KANAL 3 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108609&extension=ts&play_token=K6tJV1EZXq
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal33.png" group-title="Turkey",TR: KANAL 33 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108608&extension=ts&play_token=vL2659Hwvp
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal32.png" group-title="Turkey",TR: KANAL 32 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108607&extension=ts&play_token=xJEyM4Ko1R
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kanal58.png" group-title="Turkey",TR: KANAL 58 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108606&extension=ts&play_token=IlpFB8elHZ
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemayerli2.png" group-title="Turkey",TR: SINEMA YERLI 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108605&extension=ts&play_token=MQv1yz2i3s
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemayerli.png" group-title="Turkey",TR: SINEMA YERLI FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108604&extension=ts&play_token=qGkVZQeWuB
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/brt1.png" group-title="Turkey",TR: BRT 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108603&extension=ts&play_token=TuEiuK7C5g
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemaaile.png" group-title="Turkey",TR: SINEMA AILE FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108602&extension=ts&play_token=wtDJBriFCO
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/brt2.png" group-title="Turkey",TR: BRT 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108601&extension=ts&play_token=W9f4G9zkIC
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemaaile2.png" group-title="Turkey",TR: SINEMA AILE 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108600&extension=ts&play_token=c1W9VHjBsp
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinematv1001.png" group-title="Turkey",TR: SINEMA TV 1001 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108599&extension=ts&play_token=bxTWs4nkwl
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinema1002.png" group-title="Turkey",TR: SINEMA 1002 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108598&extension=ts&play_token=JYVVFg02jI
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinematvaksiyon.png" group-title="Turkey",TR: SINEMA TV AKSIYON FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108597&extension=ts&play_token=cmqHsXcIIL
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/habitat.png" group-title="Turkey",TR: Habitat TV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108596&extension=ts&play_token=JJG18bJU4G
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemaaksiyon2.png" group-title="Turkey",TR: SINEMA AKSIYON 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108595&extension=ts&play_token=YmihaSxpMQ
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dizismartmax.png" group-title="Turkey",TR: DIZISMART MAX FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108594&extension=ts&play_token=YNqMvjdrqw
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dizismartpremium.png" group-title="Turkey",TR: DIZISMART PREMIUM FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108593&extension=ts&play_token=2QbL1RDaa5
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/screen.png" group-title="Turkey",TR: FILMSCREEN FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108592&extension=ts&play_token=HSrntP98zF
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/moviesmartturk.png" group-title="Turkey",TR: MOVIESMART TURK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108591&extension=ts&play_token=EL50cOWPqT
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/moviesmartclassic.png" group-title="Turkey",TR: MOVIESMART CLASSIC FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108590&extension=ts&play_token=f1OCM9iklL
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sinemakomedi.png" group-title="Turkey",TR: SINEMA KOMEDI FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108589&extension=ts&play_token=53ENEhvwvr
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviespremiere.png" group-title="Turkey",TR: beIN MOVIES PREMIERE HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108588&extension=ts&play_token=4uu6tdKx1a
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviespremiere2.png" group-title="Turkey",TR: beIN MOVIES PREMIERE 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108587&extension=ts&play_token=Cfqh6srSAF
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviesstars.png" group-title="Turkey",TR: beIN MOVIES STARS HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108586&extension=ts&play_token=23B47Wj17a
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviesaction.png" group-title="Turkey",TR: beIN MOVIES ACTION FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108585&extension=ts&play_token=492xVVwZww
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviesturk.png" group-title="Turkey",TR: beIN MOVIES TÜRK FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108584&extension=ts&play_token=5iY6lNSxB8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviesfamily.png" group-title="Turkey",TR: beIN MOVIES FAMILY HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108583&extension=ts&play_token=xS8S9VQHJG
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinmoviesaction2.png" group-title="Turkey",TR: beIN MOVIES ACTION 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108582&extension=ts&play_token=r0Xs0FPh8P
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/e.png" group-title="Turkey",TR: CNBC-E FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108581&extension=ts&play_token=CsT0PyDpDI
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsportshaber.png" group-title="Turkey",TR: beIN SPORTS HABER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108580&extension=ts&play_token=ud19250aIK
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/vipbeinsports1.png" group-title="Turkey",TR: beIN SPORTS 1 FHD VIP
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108579&extension=ts&play_token=HpdmrXOoKH
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports15.png" group-title="Turkey",TR: beIN SPORTS 1 FHD 50 FPS
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108578&extension=ts&play_token=YylwCu1NXQ
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="Turkey",TR: beIN SPORTS 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108577&extension=ts&play_token=nCTiV9JNte
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="Turkey",TR: beIN SPORTS 1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108576&extension=ts&play_token=MKurpAlin4
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="Turkey",TR: beIN SPORTS 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108575&extension=ts&play_token=JWSsqZ2SkX
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="Turkey",TR: beIN SPORTS 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108574&extension=ts&play_token=RIZFsmIPgL
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="Turkey",TR: beIN SPORTS 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108573&extension=ts&play_token=MYXwc8vr3X
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="Turkey",TR: beIN SPORTS 3 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108572&extension=ts&play_token=USX4fAbDTc
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports4.png" group-title="Turkey",TR: beIN SPORTS 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108571&extension=ts&play_token=mEXsh612Ic
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports4.png" group-title="Turkey",TR: beIN SPORTS 4 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108570&extension=ts&play_token=zgfReQypTM
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports5.png" group-title="Turkey",TR: beIN SPORTS 5 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108569&extension=ts&play_token=pSvzRjf5Jj
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports5.png" group-title="Turkey",TR: beIN SPORTS 5 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108568&extension=ts&play_token=zoKE0g5sa4
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsportsmax1.png" group-title="Turkey",TR: beIN SPORTS MAX 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108567&extension=ts&play_token=DkhK6WGTtb
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsportsmax1.png" group-title="Turkey",TR: beIN SPORTS MAX 1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108566&extension=ts&play_token=cU6X8dUfOM
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsportsmax2.png" group-title="Turkey",TR: beIN SPORTS MAX 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108565&extension=ts&play_token=u6SRLyAey6
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsportsmax2.png" group-title="Turkey",TR: beIN SPORTS MAX 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108564&extension=ts&play_token=8BjYtJZhGo
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/smartspor.png" group-title="Turkey",TR: SMART SPOR FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108563&extension=ts&play_token=WWvv5dW4PL
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/smartspor2.png" group-title="Turkey",TR: SMART SPOR 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108562&extension=ts&play_token=QKpOWbRkZW
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tivibuspor.png" group-title="Turkey",TR: TIVIBUSPOR FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108561&extension=ts&play_token=08NbsxL8EV
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tivibuspor1.png" group-title="Turkey",TR: TIVIBUSPOR 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108560&extension=ts&play_token=QvEy1QECWt
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tivibuspor2.png" group-title="Turkey",TR: TIVIBUSPOR 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108559&extension=ts&play_token=pl1UY6tfRX
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tivibuspor3.png" group-title="Turkey",TR: TIVIBUSPOR 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108558&extension=ts&play_token=tgzAInYKGc
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tivibuspor4.png" group-title="Turkey",TR: TIVIBUSPOR 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108557&extension=ts&play_token=BlnNJH4WcF
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: TABII SPORTS FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108556&extension=ts&play_token=2gCUDJHcPi
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/abudhabisports1.png" group-title="Turkey",TR: TABII SPORTS 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108555&extension=ts&play_token=AMmm0uN7Nr
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/abudhabisports2.png" group-title="Turkey",TR: TABII SPORTS 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108554&extension=ts&play_token=SHWpQWfLpC
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/abudhabisports3.png" group-title="Turkey",TR: TABII SPORTS 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108553&extension=ts&play_token=xAfrHPYjo2
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/abudhabisports4.png" group-title="Turkey",TR: TABII SPORTS 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108552&extension=ts&play_token=dOL2zbP7hp
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/sports.png" group-title="Turkey",TR: HT SPOR FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108551&extension=ts&play_token=ZxMPvFT9E7
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: EXXEN SPOR 1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108550&extension=ts&play_token=DXqgQpRfDX
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: EXXEN SPOR 3 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108549&extension=ts&play_token=okZRLMob6n
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: EXXEN SPOR 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108548&extension=ts&play_token=UxCHXtjuXs
+#EXTINF:-1 tvg-logo="" group-title="Turkey",TR: EXXEN SPOR 4 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108547&extension=ts&play_token=nNIgxYIRti
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kaytv.png" group-title="Turkey",TR: KAY TV (KAYSERI) FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108546&extension=ts&play_token=Y3sxmM411a
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mavikaradeniz.png" group-title="Turkey",TR: MAVI KARADENIZ FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108545&extension=ts&play_token=T6MV0nUnXK
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/olayturktv.png" group-title="Turkey",TR: OLAY TURK TV (KAYSERI) FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108544&extension=ts&play_token=G7ZrQoHPL7
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tyt.png" group-title="Turkey",TR: TYT FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108543&extension=ts&play_token=FZ6CHVdJCb
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbcfirst.png" group-title="Turkey",TR: BBC FIRST FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108542&extension=ts&play_token=AlqeE8jj5b
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/caytv.png" group-title="Turkey",TR: Cay TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108541&extension=ts&play_token=yS47kTRINa
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cosmo.png" group-title="Turkey",TR: COSMO EN FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108540&extension=ts&play_token=32ad5B1IEs
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tv264.png" group-title="Turkey",TR: TV 264
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:FC:17:C4&stream=108539&extension=ts&play_token=GMUyVAp7GU
